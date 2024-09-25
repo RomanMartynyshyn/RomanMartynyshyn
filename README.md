@@ -1,7 +1,7 @@
 ## Hi there 👋
 This Github profile was created for learning, you are unlikely to find anything interesting here, such as the fact that you are not a student of the group in which I study, or not a teacher
 <hr>
-🌱 I’m currently learning computer science.
+🌱 I’m currently learning computer science.<br>
 Thats all. 
 
 <!--
